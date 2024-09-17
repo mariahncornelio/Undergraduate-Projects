@@ -1,0 +1,82 @@
+Country_Name,Bleaching_Status,Count
+Australia,Low Bleaching,417
+Australia,Moderate Bleaching,46
+Australia,No Bleaching,113
+Australia,Severe Bleaching,14
+Bahamas,Low Bleaching,12
+Bahamas,Moderate Bleaching,2
+Bahamas,No Bleaching,10
+Belize,Low Bleaching,2
+Belize,No Bleaching,14
+Brunei,Low Bleaching,6
+Brunei,No Bleaching,42
+Colombia,Low Bleaching,18
+Colombia,Moderate Bleaching,4
+Colombia,No Bleaching,16
+Dominica,No Bleaching,25
+Dominican Republic,Low Bleaching,8
+Dominican Republic,No Bleaching,16
+East Timor,Low Bleaching,12
+East Timor,No Bleaching,6
+Egypt,Low Bleaching,30
+Egypt,No Bleaching,275
+Fiji,Low Bleaching,54
+Fiji,Moderate Bleaching,4
+Fiji,No Bleaching,104
+France,Low Bleaching,24
+France,No Bleaching,189
+French Polynesia,Low Bleaching,112
+French Polynesia,Moderate Bleaching,2
+French Polynesia,No Bleaching,390
+French Polynesia,Severe Bleaching,2
+Grenada,Low Bleaching,28
+Grenada,Moderate Bleaching,2
+Grenada,No Bleaching,28
+Haiti,Low Bleaching,6
+Haiti,No Bleaching,38
+Honduras,No Bleaching,8
+Indonesia,Low Bleaching,251
+Indonesia,Moderate Bleaching,14
+Indonesia,No Bleaching,660
+Indonesia,Severe Bleaching,18
+Iran,Low Bleaching,4
+Iran,No Bleaching,14
+Jamaica,Low Bleaching,40
+Jamaica,No Bleaching,168
+Japan,No Bleaching,32
+Madagascar,Low Bleaching,6
+Madagascar,No Bleaching,14
+Malaysia,Low Bleaching,486
+Malaysia,Moderate Bleaching,36
+Malaysia,No Bleaching,2154
+Malaysia,Severe Bleaching,20
+Maldives,Low Bleaching,120
+Maldives,Moderate Bleaching,4
+Maldives,No Bleaching,206
+Maldives,Severe Bleaching,2
+Martinique,No Bleaching,2
+Netherlands Antilles,Low Bleaching,12
+Netherlands Antilles,No Bleaching,20
+Oman,Low Bleaching,2
+Oman,No Bleaching,90
+Philippines,Low Bleaching,100
+Philippines,No Bleaching,210
+Saint Kitts and Nevis,Low Bleaching,2
+Saint Kitts and Nevis,No Bleaching,36
+Saint Lucia,No Bleaching,4
+Sao Tome & Principe,Low Bleaching,20
+Sao Tome & Principe,No Bleaching,14
+Taiwan,Low Bleaching,22
+Taiwan,No Bleaching,444
+Thailand,Low Bleaching,36
+Thailand,Moderate Bleaching,12
+Thailand,No Bleaching,42
+Thailand,Severe Bleaching,4
+Trinidad and Tobago,Low Bleaching,32
+Trinidad and Tobago,No Bleaching,116
+Turks and Caicos,Low Bleaching,4
+Turks and Caicos,No Bleaching,4
+United Arab Emirates,Moderate Bleaching,2
+United Arab Emirates,No Bleaching,2
+United States,Low Bleaching,40
+United States,No Bleaching,90
