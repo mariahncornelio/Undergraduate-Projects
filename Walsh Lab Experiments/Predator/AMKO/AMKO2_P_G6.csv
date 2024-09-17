@@ -1,0 +1,7 @@
+﻿Time,Tall Plant,Short Plant,Cave,Substrate,Open Water,Unaccounted,Major Behavior Exhibited
+0,0,0,0,0,0,0,
+2,3,0,0,0,3,0,Grouped
+4,0,0,0,0,0,0,
+6,0,0,0,0,0,0,
+8,0,0,0,0,0,0,
+10,0,3,1,0,2,0,"Not grouping, 2 in short plant grouped"
