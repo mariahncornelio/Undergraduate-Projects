@@ -1,0 +1,27 @@
+# Procedure for melanin project
+
+1. Do hmmer on terminal for cnat, mcav, ofav, past, pstr, humans, and drosophila
+
+2. Work with _tblout.txt (tabular) file for respective species
+
+3. Open it in Excel and then clean it up
+	- text to columns (deliminated > space > finish)
+	- delete the title rows and delete empty column B 
+	- retitle rows (keep target_name, query_name, accession, E_value, score, bias, exp, reg, clu, ov, env, dom, rep, inc, and description_of_target columns)
+	- "description_of_target_" column will be separated into different columns
+		- in a separate cell, type: =CONCATENATE(S2, " ", T2, " ", U2, " ",V2, " ", W2, " ", X2, " ", Y2, " ", Z2)
+		- apply this formula to all rows by dragging formula down
+		- copy column then paste special  > values, into another column to get rid of the formula application
+		- delete all the duplicate rows and then move this column to under the "description_of_target" column
+	- save this as a .csv file and name it [species]_ref_pfam_domain.csv
+	- repeat these steps for ALL 7 species
+	
+4. Do the "### Melt" section of the Melanin_Procedure.R file
+
+5. Create a human_ref_pfam_domain excel sheet to put all the gene_names
+	- first column is "human_gene_name" and copy column in "Tyrosine Metabolism Gene List By Species" found in Teams 
+	- second column is human_gene_pfam and also taken from Tyrosine Metabolism Gene List By Species
+	- the next 6 columns are the species gene names taken from the [species]_melted.csv from step 4
+	
+6. Then do the "###Assign and organize by orthologs" section of the Melanin_Procedure.R
+7. Use the "Mcav_orthogroup_cleaned.csv" to create the corplots in the "SCTLD_melanin.Rmd" on Teams 
