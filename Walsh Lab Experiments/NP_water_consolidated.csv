@@ -1,0 +1,101 @@
+﻿Trial_ID,Experiment_Water,River,Population,Grouping,N,Location,Total,Percentage
+AMHP11_NP_G2,Non-Pred,AM,HP,Y,10,Tall plant,6,60%
+AMHP11_NP_G2,Non-Pred,AM,HP,Y,10,Short plant,4,40%
+AMHP11_NP_G2,Non-Pred,AM,HP,Y,10,Cave ,0,0%
+AMHP11_NP_G2,Non-Pred,AM,HP,Y,10,Substrate,0,0%
+AMHP11_NP_G2,Non-Pred,AM,HP,Y,10,Open water,0,0%
+AMKO11_NP_G6,Non-Pred,AM,KO,Y,10,Tall plant,0,0%
+AMKO11_NP_G2,Non-Pred,AM,KO,Y,10,Short plant,9,90%
+AMKO11_NP_G2,Non-Pred,AM,KO,Y,10,Cave ,0,0%
+AMKO11_NP_G4,Non-Pred,AM,KO,Y,10,Substrate,0,0%
+AMKO11_NP_G5,Non-Pred,AM,KO,Y,10,Open water,1,10%
+APHP7_NP_G2,Non-Pred,AP,HP,N,5,Tall plant,2,40%
+APHP7_NP_G2,Non-Pred,AP,HP,N,5,Short plant,3,60%
+APHP7_NP_G2,Non-Pred,AP,HP,N,5,Cave ,0,0%
+APHP7_NP_G2,Non-Pred,AP,HP,N,5,Substrate,0,0%
+APHP7_NP_G2,Non-Pred,AP,HP,N,5,Open water,0,0%
+AMKO13_NP_G2,Non-Pred,AM,KO,Y,5,Tall plant,2,40%
+AMKO13_NP_G2,Non-Pred,AM,KO,Y,5,Short plant,3,60%
+AMKO13_NP_G2,Non-Pred,AM,KO,Y,5,Cave ,0,0%
+AMKO13_NP_G2,Non-Pred,AM,KO,Y,5,Substrate,0,0%
+AMKO13_NP_G2,Non-Pred,AM,KO,Y,5,Open water,0,0%
+AMHP5_NP_G3,Non-Pred,AM,HP,N,6,Tall plant,0,0%
+AMHP5_NP_G3,Non-Pred,AM,HP,N,6,Short plant,0,0%
+AMHP5_NP_G3,Non-Pred,AM,HP,N,6,Cave ,0,0%
+AMHP5_NP_G3,Non-Pred,AM,HP,N,6,Substrate,0,0%
+AMHP5_NP_G3,Non-Pred,AM,HP,N,6,Open water,6,100%
+APKO8_NP_G3,Non-Pred,AP,KO,Y,6,Tall plant,6,100%
+APKO8_NP_G3,Non-Pred,AP,KO,Y,6,Short plant,0,0%
+APKO8_NP_G3,Non-Pred,AP,KO,Y,6,Cave ,0,0%
+APKO8_NP_G3,Non-Pred,AP,KO,Y,6,Substrate,0,0%
+APKO8_NP_G3,Non-Pred,AP,KO,Y,6,Open water,0,0%
+APHP1_NP_G3,Non-Pred,AP,HP,N,6,Tall plant,2,33%
+APHP1_NP_G3,Non-Pred,AP,HP,N,6,Short plant,3,50%
+APHP1_NP_G3,Non-Pred,AP,HP,N,6,Cave ,0,0%
+APHP1_NP_G3,Non-Pred,AP,HP,N,6,Substrate,0,0%
+APHP1_NP_G3,Non-Pred,AP,HP,N,6,Open water,1,17%
+AMKO19_NP_G3,Non-Pred,AM,KO,Y,6,Tall plant,2,33%
+AMKO19_NP_G3,Non-Pred,AM,KO,Y,6,Short plant,2,33%
+AMKO19_NP_G3,Non-Pred,AM,KO,Y,6,Cave ,0,0%
+AMKO19_NP_G3,Non-Pred,AM,KO,Y,6,Substrate,0,0%
+AMKO19_NP_G3,Non-Pred,AM,KO,Y,6,Open water,2,33%
+APKO9_NP_G3,Non-Pred,AP,KO,Y,6,Tall plant,2,33%
+APKO9_NP_G3,Non-Pred,AP,KO,Y,6,Short plant,2,33%
+APKO9_NP_G3,Non-Pred,AP,KO,Y,6,Cave ,0,0%
+APKO9_NP_G3,Non-Pred,AP,KO,Y,6,Substrate,0,0%
+APKO9_NP_G3,Non-Pred,AP,KO,Y,6,Open water,2,33%
+APHP16_NP_G4,Non-Pred,AP,HP,N,6,Tall plant,1,17%
+APHP16_NP_G4,Non-Pred,AP,HP,N,6,Short plant,2,33%
+APHP16_NP_G4,Non-Pred,AP,HP,N,6,Cave ,0,0%
+APHP16_NP_G4,Non-Pred,AP,HP,N,6,Substrate,0,0%
+APHP16_NP_G4,Non-Pred,AP,HP,N,6,Open water,3,50%
+AMHP5_NP_G4,Non-Pred,AM,HP,N,6,Tall plant,3,50%
+AMHP5_NP_G4,Non-Pred,AM,HP,N,6,Short plant,1,17%
+AMHP5_NP_G4,Non-Pred,AM,HP,N,6,Cave ,0,0%
+AMHP5_NP_G4,Non-Pred,AM,HP,N,6,Substrate,1,17%
+AMHP5_NP_G4,Non-Pred,AM,HP,N,6,Open water,1,17%
+APKO9_NP_G4,Non-Pred,AP,KO,Y,6,Tall plant,0,0%
+APKO9_NP_G4,Non-Pred,AP,KO,Y,6,Short plant,1,17%
+APKO9_NP_G4,Non-Pred,AP,KO,Y,6,Cave ,0,0%
+APKO9_NP_G4,Non-Pred,AP,KO,Y,6,Substrate,0,0%
+APKO9_NP_G4,Non-Pred,AP,KO,Y,6,Open water,5,83%
+APKO8_NP_G4,Non-Pred,AP,KO,Y,6,Tall plant,5,83%
+APKO8_NP_G4,Non-Pred,AP,KO,Y,6,Short plant,0,0%
+APKO8_NP_G4,Non-Pred,AP,KO,Y,6,Cave ,1,17%
+APKO8_NP_G4,Non-Pred,AP,KO,Y,6,Substrate,0,0%
+APKO8_NP_G4,Non-Pred,AP,KO,Y,6,Open water,0,0%
+AMHP5_NP_G4_2,Non-Pred,AM,HP,Y,6,Tall plant,0,0%
+AMHP5_NP_G4_2,Non-Pred,AM,HP,Y,6,Short plant,3,50%
+AMHP5_NP_G4_2,Non-Pred,AM,HP,Y,6,Cave ,1,17%
+AMHP5_NP_G4_2,Non-Pred,AM,HP,Y,6,Substrate,0,0%
+AMHP5_NP_G4_2,Non-Pred,AM,HP,Y,6,Open water,2,33%
+AMHP11_NP_G5,Non-Pred,AM,HP,N,6,Tall plant,2,33%
+AMHP11_NP_G5,Non-Pred,AM,HP,N,6,Short plant,3,50%
+AMHP11_NP_G5,Non-Pred,AM,HP,N,6,Cave ,0,0%
+AMHP11_NP_G5,Non-Pred,AM,HP,N,6,Substrate,0,0%
+AMHP11_NP_G5,Non-Pred,AM,HP,N,6,Open water,1,17%
+AMKO3_NP_G5,Non-Pred,AM,KO,N,6,Tall plant,2,33%
+AMKO3_NP_G6,Non-Pred,AM,KO,N,6,Short plant,2,33%
+AMKO3_NP_G7,Non-Pred,AM,KO,N,6,Cave ,1,17%
+AMKO3_NP_G8,Non-Pred,AM,KO,N,6,Substrate,0,0%
+AMKO3_NP_G9,Non-Pred,AM,KO,N,6,Open water,1,17%
+APHP12_NP_G5,Non-Pred,AP,HP,Y,6,Tall plant,0,0%
+APHP12_NP_G5,Non-Pred,AP,HP,Y,6,Short plant,3,50%
+APHP12_NP_G5,Non-Pred,AP,HP,Y,6,Cave ,0,0%
+APHP12_NP_G5,Non-Pred,AP,HP,Y,6,Substrate,0,0%
+APHP12_NP_G5,Non-Pred,AP,HP,Y,6,Open water,3,50%
+APKO18_NP_G5,Non-Pred,AP,KO,Y,6,Tall plant,1,17%
+APKO18_NP_G5,Non-Pred,AP,KO,Y,6,Short plant,1,17%
+APKO18_NP_G5,Non-Pred,AP,KO,Y,6,Cave ,1,17%
+APKO18_NP_G5,Non-Pred,AP,KO,Y,6,Substrate,0,0%
+APKO18_NP_G5,Non-Pred,AP,KO,Y,6,Open water,3,50%
+AMKO2_NP_G6,Non-Pred,AM,KO,Y,6,Tall plant,0,0%
+AMKO2_NP_G6,Non-Pred,AM,KO,Y,6,Short plant,0,0%
+AMKO2_NP_G6,Non-Pred,AM,KO,Y,6,Cave ,1,17%
+AMKO2_NP_G6,Non-Pred,AM,KO,Y,6,Substrate,0,0%
+AMKO2_NP_G6,Non-Pred,AM,KO,Y,6,Open water,4,67%
+APHP16_NP_G6,Non-Pred,AP,HP,Y,6,Tall plant,0,0%
+APHP16_NP_G6,Non-Pred,AP,HP,Y,6,Short plant,1,17%
+APHP16_NP_G6,Non-Pred,AP,HP,Y,6,Cave ,0,0%
+APHP16_NP_G6,Non-Pred,AP,HP,Y,6,Substrate,0,0%
+APHP16_NP_G6,Non-Pred,AP,HP,Y,6,Open water,5,83%
