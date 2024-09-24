@@ -40,4 +40,8 @@ PCA/IPCA (R) / tximport (R) / Normalizing and differential expression analysis (
 ___
 
 ### Walsh Lab Killifish Experiments
-In this undergraduate research experience (BIOL 2242) with Dr. Matthew Walsh, 
+In this undergraduate research experience (BIOL 2242) with Dr. Matthew Walsh, my teammates and I designed our own experiment to study the generational behaviors of Trinidadian killifish (Anablepsoides hartii). We focused on the effect of predator presence on the grouping behavior of fish from high-predation and killifish-only populations. After digitizing our results and compiling them into a metadata file, we used Python and R to perform statistical and visual analysis, including t-tests and ANOVA F tests.
+
+This project includes code pipelines and outputs for:
+
+Metadata files (Excel) / Visual and statistical data analysis (Python & R) / Anova table (HTML) / Our research paper (PDF)
